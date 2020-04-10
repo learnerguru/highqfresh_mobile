@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "987463378476",
+    "firebase_url": "https://faith-in-god-142e6.firebaseio.com",
+    "project_id": "faith-in-god-142e6",
+    "storage_bucket": "faith-in-god-142e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987463378476:android:7511f0462dd71ae901d389",
+        "android_client_info": {
+          "package_name": "com.dioceseofparasala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987463378476-n65jlpufnt9qasblot29lfi0lnevtk16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuGwwkOUD-LL9Yuq9oWPQ6K_UxyfGgVW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987463378476-n65jlpufnt9qasblot29lfi0lnevtk16.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "987463378476-iigqu4ndc0s5qhbfmcq0i2gfpreqjbi2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.malankaraplus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987463378476:android:8e18c78a344a7cea01d389",
+        "android_client_info": {
+          "package_name": "com.malankaraplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987463378476-n65jlpufnt9qasblot29lfi0lnevtk16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuGwwkOUD-LL9Yuq9oWPQ6K_UxyfGgVW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987463378476-n65jlpufnt9qasblot29lfi0lnevtk16.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "987463378476-iigqu4ndc0s5qhbfmcq0i2gfpreqjbi2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.malankaraplus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

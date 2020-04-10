@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/agaram/Desktop/android/faithingod-flutter/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/4536a136606894c3d221df242771394f/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/agaram/Desktop/android/faithingod-flutter/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/4536a136606894c3d221df242771394f/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/agaram/Desktop/android/faithingod-flutter/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/4536a136606894c3d221df242771394f/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/agaram/Desktop/android/faithingod-flutter/build/url_launcher/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/4536a136606894c3d221df242771394f/res/layout-v21/notification_template_icon_group.xml"
+    }
+]
