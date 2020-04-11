@@ -1,22 +1,26 @@
 [
     {
-        "merged": "/Users/agaram/Desktop/android/faithingod-flutter/build/url_launcher/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
-        "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/4536a136606894c3d221df242771394f/res/layout/notification_action_tombstone.xml"
+        "merged": "/Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/d8e6145ebd5f6e1099b739484795a4bd/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/Users/agaram/Desktop/android/faithingod-flutter/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/4536a136606894c3d221df242771394f/res/layout/notification_template_part_time.xml"
+        "merged": "/Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/d8e6145ebd5f6e1099b739484795a4bd/core-1.1.0/res/layout/notification_template_part_time.xml"
     },
     {
-        "merged": "/Users/agaram/Desktop/android/faithingod-flutter/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/4536a136606894c3d221df242771394f/res/layout/notification_template_part_chronometer.xml"
+        "merged": "/Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/d8e6145ebd5f6e1099b739484795a4bd/core-1.1.0/res/layout/notification_action_tombstone.xml"
     },
     {
-        "merged": "/Users/agaram/Desktop/android/faithingod-flutter/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
-        "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/4536a136606894c3d221df242771394f/res/layout/notification_template_icon_group.xml"
+        "merged": "/Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/d8e6145ebd5f6e1099b739484795a4bd/core-1.1.0/res/layout/custom_dialog.xml"
     },
     {
-        "merged": "/Users/agaram/Desktop/android/faithingod-flutter/build/url_launcher/intermediates/res/merged/debug/layout/notification_action.xml",
-        "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/4536a136606894c3d221df242771394f/res/layout/notification_action.xml"
+        "merged": "/Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/d8e6145ebd5f6e1099b739484795a4bd/core-1.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/d8e6145ebd5f6e1099b739484795a4bd/core-1.1.0/res/layout/notification_template_icon_group.xml"
     }
 ]

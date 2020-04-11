@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:highqfresh/constant/LgConstant.dart';
 import 'package:highqfresh/constant/SharedPref.dart';
 import 'package:highqfresh/screens/landingscreen/LandingScreen.dart';
+import 'package:highqfresh/utils/LgSnackbarUtils.dart';
 import 'package:http/http.dart';
 import 'package:share/share.dart';
 import 'package:url_launcher/url_launcher.dart';
@@ -24,8 +25,9 @@ class LGUtils{
     return headers;
   }
 
-  static bool checkResponse(Response response){
+  static bool checkResponse(Response response,BuildContext context){
     if(response.statusCode==401){
+      LgSnackbarUtils.showInSnackBarAtBottom("Session Expired", context, false);
       return false;
     }
     return true;

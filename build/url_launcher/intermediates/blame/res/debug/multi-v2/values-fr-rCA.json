@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/agaram/Desktop/android/faithingod-flutter/build/url_launcher/intermediates/res/merged/debug/values-fr-rCA/values-fr-rCA.xml",
+            "outputFile": "/Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher/intermediates/res/merged/debug/values-fr-rCA/values-fr-rCA.xml",
             "map": [
                 {
-                    "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/4536a136606894c3d221df242771394f/res/values-fr-rCA/values-fr-rCA.xml",
+                    "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/d8e6145ebd5f6e1099b739484795a4bd/core-1.1.0/res/values-fr-rCA/values-fr-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "/Users/agaram/Desktop/android/faithingod-flutter/build/url_launcher/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
+            "outputFile": "/Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
             "map": [
                 {
-                    "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/4536a136606894c3d221df242771394f/res/values-fr-rCA/values-fr-rCA.xml",
+                    "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/d8e6145ebd5f6e1099b739484795a4bd/core-1.1.0/res/values-fr-rCA/values-fr-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

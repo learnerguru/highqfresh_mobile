@@ -23,7 +23,7 @@ class LandingApiCalls{
   print(LGUtils.getAuthHeader());
   print(json.encode(homeRecentRequest.toJson()));
   Response response = await post(url, headers: LGUtils.getAuthHeader(), body: json.encode(homeRecentRequest.toJson()));
-  if(!LGUtils.checkResponse(response)){
+  if(!LGUtils.checkResponse(response,context)){
    LGUtils.onLogout(context);
   }else{
    // Use the compute function to run parsePhotos in a separate isolate

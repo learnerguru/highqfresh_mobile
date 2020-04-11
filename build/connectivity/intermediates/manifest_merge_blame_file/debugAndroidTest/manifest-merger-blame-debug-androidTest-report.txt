@@ -1,0 +1,43 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.flutter.plugins.connectivity.test" >
+4
+5    <uses-sdk
+5-->/Users/agaram/Desktop/android/highqfresh_mobile/build/connectivity/intermediates/tmp/manifest/androidTest/debug/manifestMerger723416648021745382.xml:5:5-74
+6        android:minSdkVersion="16"
+6-->/Users/agaram/Desktop/android/highqfresh_mobile/build/connectivity/intermediates/tmp/manifest/androidTest/debug/manifestMerger723416648021745382.xml:5:15-41
+7        android:targetSdkVersion="16" />
+7-->/Users/agaram/Desktop/android/highqfresh_mobile/build/connectivity/intermediates/tmp/manifest/androidTest/debug/manifestMerger723416648021745382.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/agaram/Desktop/android/highqfresh_mobile/build/connectivity/intermediates/tmp/manifest/androidTest/debug/manifestMerger723416648021745382.xml:11:5-15:86
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->/Users/agaram/Desktop/android/highqfresh_mobile/build/connectivity/intermediates/tmp/manifest/androidTest/debug/manifestMerger723416648021745382.xml:11:22-76
+11        android:functionalTest="false"
+11-->/Users/agaram/Desktop/android/highqfresh_mobile/build/connectivity/intermediates/tmp/manifest/androidTest/debug/manifestMerger723416648021745382.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/agaram/Desktop/android/highqfresh_mobile/build/connectivity/intermediates/tmp/manifest/androidTest/debug/manifestMerger723416648021745382.xml:13:22-53
+13        android:label="Tests for io.flutter.plugins.connectivity.test"
+13-->/Users/agaram/Desktop/android/highqfresh_mobile/build/connectivity/intermediates/tmp/manifest/androidTest/debug/manifestMerger723416648021745382.xml:15:22-84
+14        android:targetPackage="io.flutter.plugins.connectivity.test" />
+14-->/Users/agaram/Desktop/android/highqfresh_mobile/build/connectivity/intermediates/tmp/manifest/androidTest/debug/manifestMerger723416648021745382.xml:12:22-82
+15
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[__tested_artifact__::connectivity] /Users/agaram/Desktop/android/highqfresh_mobile/build/connectivity/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
+16-->[__tested_artifact__::connectivity] /Users/agaram/Desktop/android/highqfresh_mobile/build/connectivity/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-76
+17    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+17-->[__tested_artifact__::connectivity] /Users/agaram/Desktop/android/highqfresh_mobile/build/connectivity/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-76
+17-->[__tested_artifact__::connectivity] /Users/agaram/Desktop/android/highqfresh_mobile/build/connectivity/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-73
+18
+19    <application
+19-->/Users/agaram/Desktop/android/highqfresh_mobile/build/connectivity/intermediates/tmp/manifest/androidTest/debug/manifestMerger723416648021745382.xml:7:5-9:19
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/331630a23dfa1f0594bcf54d5352aa36/core-1.1.0/AndroidManifest.xml:24:18-86
+21        android:debuggable="true" >
+21-->/Users/agaram/Desktop/android/highqfresh_mobile/build/connectivity/intermediates/tmp/manifest/androidTest/debug/manifestMerger723416648021745382.xml:7:18-43
+22        <uses-library android:name="android.test.runner" />
+22-->/Users/agaram/Desktop/android/highqfresh_mobile/build/connectivity/intermediates/tmp/manifest/androidTest/debug/manifestMerger723416648021745382.xml:8:9-60
+22-->/Users/agaram/Desktop/android/highqfresh_mobile/build/connectivity/intermediates/tmp/manifest/androidTest/debug/manifestMerger723416648021745382.xml:8:23-57
+23    </application>
+24
+25</manifest>

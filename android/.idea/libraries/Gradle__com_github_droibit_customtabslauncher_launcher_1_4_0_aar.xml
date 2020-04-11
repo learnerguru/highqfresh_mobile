@@ -1,10 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.droibit.customtabslauncher:launcher:1.4.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7a4c6d4fa492312f4d8f3af49e648bfd/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7a4c6d4fa492312f4d8f3af49e648bfd/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1a8ca21fc521c1c3a00f4827c679d6ee/jetified-launcher-1.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1a8ca21fc521c1c3a00f4827c679d6ee/jetified-launcher-1.4.0/res" />
     </CLASSES>
-    <JAVADOC />
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.droibit.customtabslauncher/launcher/1.4.0/b79212630962e9a72a08f6f85580f5da754510cc/launcher-1.4.0-javadoc.jar!/" />
+    </JAVADOC>
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.droibit.customtabslauncher/launcher/1.4.0/16e458453f6dac99afc874efafebf9470f128f2b/launcher-1.4.0-sources.jar!/" />
     </SOURCES>

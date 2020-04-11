@@ -4,7 +4,7 @@
             "outputFile": "/Users/agaram/Desktop/android/highqfresh_mobile/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
-                    "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/4536a136606894c3d221df242771394f/res/values-en-rXC/values-en-rXC.xml",
+                    "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/d8e6145ebd5f6e1099b739484795a4bd/core-1.1.0/res/values-en-rXC/values-en-rXC.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -5,69 +5,72 @@ INJECTED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/ma
 INJECTED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml:1:1-39:12
 INJECTED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml:1:1-39:12
 MERGED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml:1:1-39:12
-MERGED from [:youtube_api] /Users/agaram/Desktop/android/highqfresh_mobile/build/youtube_api/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:flutter_custom_tabs] /Users/agaram/Desktop/android/highqfresh_mobile/build/flutter_custom_tabs/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:video_player] /Users/agaram/Desktop/android/highqfresh_mobile/build/video_player/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:device_info] /Users/agaram/Desktop/android/highqfresh_mobile/build/device_info/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:package_info] /Users/agaram/Desktop/android/highqfresh_mobile/build/package_info/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] /Users/agaram/Desktop/android/highqfresh_mobile/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:connectivity] /Users/agaram/Desktop/android/highqfresh_mobile/build/connectivity/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-10:12
 MERGED from [:connectivity_macos] /Users/agaram/Desktop/android/highqfresh_mobile/build/connectivity_macos/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:shared_preferences] /Users/agaram/Desktop/android/highqfresh_mobile/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_custom_tabs] /Users/agaram/Desktop/android/highqfresh_mobile/build/flutter_custom_tabs/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:firebase_messaging] /Users/agaram/Desktop/android/highqfresh_mobile/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-20:12
-MERGED from [:webview_flutter] /Users/agaram/Desktop/android/highqfresh_mobile/build/webview_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:device_info] /Users/agaram/Desktop/android/highqfresh_mobile/build/device_info/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:url_launcher] /Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
-MERGED from [:url_launcher_macos] /Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher_macos/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:shared_preferences_macos] /Users/agaram/Desktop/android/highqfresh_mobile/build/shared_preferences_macos/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:share] /Users/agaram/Desktop/android/highqfresh_mobile/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] /Users/agaram/Desktop/android/highqfresh_mobile/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:shared_preferences_web] /Users/agaram/Desktop/android/highqfresh_mobile/build/shared_preferences_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:url_launcher_web] /Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:sqflite] /Users/agaram/Desktop/android/highqfresh_mobile/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:video_player] /Users/agaram/Desktop/android/highqfresh_mobile/build/video_player/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] /Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:shared_preferences_macos] /Users/agaram/Desktop/android/highqfresh_mobile/build/shared_preferences_macos/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:webview_flutter] /Users/agaram/Desktop/android/highqfresh_mobile/build/webview_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:path_provider] /Users/agaram/Desktop/android/highqfresh_mobile/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.firebase:firebase-messaging:20.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fbc174d895d10d01a828845329d76e8e/AndroidManifest.xml:17:1-44:12
-MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d3fa0f8afd7d6e4abe5b8b0f70f1b631/AndroidManifest.xml:15:1-34:12
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41c2441714d4a879f27667d0e79416a9/AndroidManifest.xml:17:1-47:12
-MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/00421d5e719bf0b6f1cd859ece0e102e/AndroidManifest.xml:15:1-39:12
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/27173f6e673fc7c60adddc5cf47048ab/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/804b100c16c9dea646f723a7481a1a3a/AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e01bac680848206082557b1bc484c94b/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/944de4e52cae484a7344b320c5fcf7bc/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/02fe3c9b632d2a2b88b6bbf45e1d34b9/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/7b46466aa317c3ed7484362211f05963/AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.fragment:fragment:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/90ae33792e87e6610d19837f586af327/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.webkit:webkit:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5f7c56229e9e72f029e60057b1ea9236/AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.droibit.customtabslauncher:launcher:1.4.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/7a4c6d4fa492312f4d8f3af49e648bfd/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.browser:browser:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/b45405470e32f071a9ea7f6db99f0995/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5cdd8a0a8a8424e25c94ab540f3d29fd/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/86d831ea535132a32c945496c0182333/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/af2ff04fb7df22cd88aa131410532507/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d6291373c5d7a40af9957e8863fd93d6/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/9d6f0e931c68c2f3d60a2e5aded33e2f/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/a35f1b0a03d3ea903bead866eed4d256/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d262529844455e2bc973c52ace4d2a6a/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/a1543f0b186fcdb1df6c4634bfb86529/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/436a6f6434ed376917f934fc9217a966/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/a983760e8c7554f7aaf061434f0224de/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/4536a136606894c3d221df242771394f/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/f8f28a210d80683cdeb5b4ce2d8ac34c/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/7cca7ec37c7e965425ef16d4612efe10/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/99ec0eec47ddf41e03b27e90cdc3518a/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5b18bda23d8e6f5152cef3f2271c5efe/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/8c628f7cae687d36aa7ec0ccd51f0f9d/AndroidManifest.xml:15:1-38:12
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/81bfaa7ad13e25aed41ba0266390bc8f/AndroidManifest.xml:15:1-41:12
-MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/492a21bc116f6e247f1084f7ac9b6769/AndroidManifest.xml:15:1-23:12
-MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/232fc76919708c375867fc47fce7dfb5/AndroidManifest.xml:15:1-23:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/526738d51e8a001b8528d1fdae5cac4a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41db673fa0c906ac08a7cf5c9663dcbe/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/3bdc4f06f7d1e9073f963f4b3c96386f/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e85564c54faf9831e32619275fa7641e/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/272e52c06513431ae089ef3963024ac3/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/4d9336b5f83cf3e527be337ac7caa57f/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/c991a9afaa1a05beca4fd6ddea81c260/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/9602ca4f34f0562f27594fd7ab7af7e2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e024283da67531cd8372abc45d11d3ba/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/aa9dde6fca76b152c449ebfb58e84e27/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e0e073b4feb340321797b021ef064d5c/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5ef84e40815c3bcb15e3591f3d952ad9/AndroidManifest.xml:15:1-22:12
+MERGED from [:url_launcher_macos] /Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher_macos/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:share] /Users/agaram/Desktop/android/highqfresh_mobile/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher_web] /Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-messaging:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/530f0e3e3abc6cf90cf0c1e58b635f1d/jetified-firebase-messaging-20.1.5/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.firebase:firebase-iid:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d0e73e77498584566051e107c3add793/jetified-firebase-iid-20.1.5/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fb53d73831e8095c79a95a7a1fc4a5f7/jetified-play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/agaram/.gradle/caches/transforms-2/files-2.1/01136c00953e83c126543e1a0a2a9d27/jetified-firebase-datatransport-17.0.3/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-installations:16.2.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/a10816b9c03b948f6ceac3bfc820853e/jetified-firebase-installations-16.2.1/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/89e8c50f4adcfa71f0d90282494b2c06/jetified-firebase-common-19.3.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/6109d8996d9b47a9c8ecaa9a82f0714c/jetified-firebase-installations-interop-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/cbc6d6f5135bf06efc972a72e114f0e3/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e24ab2098bd581de9bdcddd5aa46d15d/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d02550b430adf4bbb39d913834e1c68c/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fdfac00df6b6ce656edd397d4c6596aa/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/f2c8b4624d1269ee053bd8db8444a9c2/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d4a0c365d0fbe39ce9a33af08a89b696/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/43ada0fee32cb4a228528c7f06f8aab2/webkit-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.droibit.customtabslauncher:launcher:1.4.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/1a8ca21fc521c1c3a00f4827c679d6ee/jetified-launcher-1.4.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/f6c6ba3e250d56ed024425cef582e8cb/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e26b6a15b4f62b35430e744f2c1809a9/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/12c60d1d9d8740ab9472d905160483f6/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/277020f86f91c25102aef20906789c74/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/1e35ab3da9f4c89e22014e1ada1360e6/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/48d3297f7ee7b64ce12125496f60e2e3/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/0bd482385e00cbd8c209e26a3439525d/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/0a05eb1d35f4f3c45c6c3017541af87a/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fb0b1eb33205bb46615b97e49173533a/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/4bed03d5011699e13fbb807ae5bd1ce2/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/8f28b85a5446987edd1fc91c9e1ba03d/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/2f7b9f67100336c938439134ba38a95d/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d8e6145ebd5f6e1099b739484795a4bd/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/0a2dc213f0bf1b96b7453405e5e1e190/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fd85cdfb7a55a7d6038b062d8044431f/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e46d1f274ee2854845cc7fdb623ed9d5/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/29e8ae855d93b75add58e65b12d7a94d/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5bca16e7f72ee0d9190756d50377a344/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/94e06c12cc46e73eb47bc8a3db22810e/jetified-transport-runtime-2.2.0/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/371d6f1577fc3f085ea84b6d25720978/jetified-firebase-components-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/acf9cff16bca7f6e1ab5bce8b23df96f/jetified-firebase-encoders-json-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fe7ebf79e3411e22ec0a7132a522671c/jetified-exoplayer-hls-2.9.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/80f77e27776d1570e2a6150adafc53a7/jetified-exoplayer-dash-2.9.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e920fcca3534ebdfab01fb0b8fb8ca7f/jetified-exoplayer-smoothstreaming-2.9.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/9665d55df809c4a5323b6e91b6bbfd0d/jetified-exoplayer-core-2.9.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/cf5ee90c33a03f33f261cc870b55d351/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/3af4fd5d73989f30145e307cbcc328a3/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/3bf9b70d2d0e3b26fe4ec96aaa2a5b08/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/686b8932ddd35430a3d8d179038e1a12/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/a65200a3cf1a4e6b15577c6d2c62e8e2/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/68ddf7ce0f0f1b81ec43879c04fb97e1/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/682a6a8e8b2deb3a482756e31f67467f/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/ffc85c396f1d6c99c8c875ed537fc0dd/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/4b2a688450e451fa256efd5afdee3e92/jetified-transport-api-2.2.0/AndroidManifest.xml:15:1-22:12
 INJECTED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/debug/AndroidManifest.xml:1:1-7:12
@@ -89,10 +92,12 @@ uses-permission#android.permission.INTERNET
 ADDED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml:3:5-67
 MERGED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml:3:5-67
 MERGED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml:3:5-67
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41c2441714d4a879f27667d0e79416a9/AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41c2441714d4a879f27667d0e79416a9/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/8c628f7cae687d36aa7ec0ccd51f0f9d/AndroidManifest.xml:26:5-67
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/8c628f7cae687d36aa7ec0ccd51f0f9d/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-iid:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d0e73e77498584566051e107c3add793/jetified-firebase-iid-20.1.5/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d0e73e77498584566051e107c3add793/jetified-firebase-iid-20.1.5/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-installations:16.2.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/a10816b9c03b948f6ceac3bfc820853e/jetified-firebase-installations-16.2.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.2.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/a10816b9c03b948f6ceac3bfc820853e/jetified-firebase-installations-16.2.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5bca16e7f72ee0d9190756d50377a344/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5bca16e7f72ee0d9190756d50377a344/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:26:5-67
 	android:name
 		ADDED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml:3:22-64
 application
@@ -101,36 +106,38 @@ MERGED from [:firebase_messaging] /Users/agaram/Desktop/android/highqfresh_mobil
 MERGED from [:firebase_messaging] /Users/agaram/Desktop/android/highqfresh_mobile/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-18:19
 MERGED from [:url_launcher] /Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
 MERGED from [:url_launcher] /Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
-MERGED from [com.google.firebase:firebase-messaging:20.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fbc174d895d10d01a828845329d76e8e/AndroidManifest.xml:22:5-42:19
-MERGED from [com.google.firebase:firebase-messaging:20.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fbc174d895d10d01a828845329d76e8e/AndroidManifest.xml:22:5-42:19
-MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d3fa0f8afd7d6e4abe5b8b0f70f1b631/AndroidManifest.xml:24:5-32:19
-MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d3fa0f8afd7d6e4abe5b8b0f70f1b631/AndroidManifest.xml:24:5-32:19
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41c2441714d4a879f27667d0e79416a9/AndroidManifest.xml:28:5-45:19
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41c2441714d4a879f27667d0e79416a9/AndroidManifest.xml:28:5-45:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/00421d5e719bf0b6f1cd859ece0e102e/AndroidManifest.xml:25:5-37:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/00421d5e719bf0b6f1cd859ece0e102e/AndroidManifest.xml:25:5-37:19
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/27173f6e673fc7c60adddc5cf47048ab/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/27173f6e673fc7c60adddc5cf47048ab/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/804b100c16c9dea646f723a7481a1a3a/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/804b100c16c9dea646f723a7481a1a3a/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e01bac680848206082557b1bc484c94b/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e01bac680848206082557b1bc484c94b/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/944de4e52cae484a7344b320c5fcf7bc/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/944de4e52cae484a7344b320c5fcf7bc/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/02fe3c9b632d2a2b88b6bbf45e1d34b9/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/02fe3c9b632d2a2b88b6bbf45e1d34b9/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/7b46466aa317c3ed7484362211f05963/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/7b46466aa317c3ed7484362211f05963/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.core:core:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/4536a136606894c3d221df242771394f/AndroidManifest.xml:22:5-89
-MERGED from [androidx.core:core:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/4536a136606894c3d221df242771394f/AndroidManifest.xml:22:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5b18bda23d8e6f5152cef3f2271c5efe/AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5b18bda23d8e6f5152cef3f2271c5efe/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/8c628f7cae687d36aa7ec0ccd51f0f9d/AndroidManifest.xml:28:5-36:19
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/8c628f7cae687d36aa7ec0ccd51f0f9d/AndroidManifest.xml:28:5-36:19
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/81bfaa7ad13e25aed41ba0266390bc8f/AndroidManifest.xml:25:5-39:19
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/81bfaa7ad13e25aed41ba0266390bc8f/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.firebase:firebase-messaging:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/530f0e3e3abc6cf90cf0c1e58b635f1d/jetified-firebase-messaging-20.1.5/AndroidManifest.xml:22:5-42:19
+MERGED from [com.google.firebase:firebase-messaging:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/530f0e3e3abc6cf90cf0c1e58b635f1d/jetified-firebase-messaging-20.1.5/AndroidManifest.xml:22:5-42:19
+MERGED from [com.google.firebase:firebase-iid:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d0e73e77498584566051e107c3add793/jetified-firebase-iid-20.1.5/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d0e73e77498584566051e107c3add793/jetified-firebase-iid-20.1.5/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fb53d73831e8095c79a95a7a1fc4a5f7/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fb53d73831e8095c79a95a7a1fc4a5f7/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/agaram/.gradle/caches/transforms-2/files-2.1/01136c00953e83c126543e1a0a2a9d27/jetified-firebase-datatransport-17.0.3/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/agaram/.gradle/caches/transforms-2/files-2.1/01136c00953e83c126543e1a0a2a9d27/jetified-firebase-datatransport-17.0.3/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-installations:16.2.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/a10816b9c03b948f6ceac3bfc820853e/jetified-firebase-installations-16.2.1/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:16.2.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/a10816b9c03b948f6ceac3bfc820853e/jetified-firebase-installations-16.2.1/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/89e8c50f4adcfa71f0d90282494b2c06/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/89e8c50f4adcfa71f0d90282494b2c06/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/cbc6d6f5135bf06efc972a72e114f0e3/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/cbc6d6f5135bf06efc972a72e114f0e3/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e24ab2098bd581de9bdcddd5aa46d15d/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e24ab2098bd581de9bdcddd5aa46d15d/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d02550b430adf4bbb39d913834e1c68c/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d02550b430adf4bbb39d913834e1c68c/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fdfac00df6b6ce656edd397d4c6596aa/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fdfac00df6b6ce656edd397d4c6596aa/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/f2c8b4624d1269ee053bd8db8444a9c2/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/f2c8b4624d1269ee053bd8db8444a9c2/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d8e6145ebd5f6e1099b739484795a4bd/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d8e6145ebd5f6e1099b739484795a4bd/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5bca16e7f72ee0d9190756d50377a344/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5bca16e7f72ee0d9190756d50377a344/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/94e06c12cc46e73eb47bc8a3db22810e/jetified-transport-runtime-2.2.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/94e06c12cc46e73eb47bc8a3db22810e/jetified-transport-runtime-2.2.0/AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/3bf9b70d2d0e3b26fe4ec96aaa2a5b08/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/3bf9b70d2d0e3b26fe4ec96aaa2a5b08/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/4536a136606894c3d221df242771394f/AndroidManifest.xml:22:18-86
+		ADDED from [androidx.core:core:1.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d8e6145ebd5f6e1099b739484795a4bd/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:label
 		ADDED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml:12:9-41
 	android:icon
@@ -183,132 +190,138 @@ uses-sdk
 INJECTED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml
-MERGED from [:youtube_api] /Users/agaram/Desktop/android/highqfresh_mobile/build/youtube_api/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:youtube_api] /Users/agaram/Desktop/android/highqfresh_mobile/build/youtube_api/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:flutter_custom_tabs] /Users/agaram/Desktop/android/highqfresh_mobile/build/flutter_custom_tabs/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:flutter_custom_tabs] /Users/agaram/Desktop/android/highqfresh_mobile/build/flutter_custom_tabs/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:video_player] /Users/agaram/Desktop/android/highqfresh_mobile/build/video_player/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:video_player] /Users/agaram/Desktop/android/highqfresh_mobile/build/video_player/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:device_info] /Users/agaram/Desktop/android/highqfresh_mobile/build/device_info/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:device_info] /Users/agaram/Desktop/android/highqfresh_mobile/build/device_info/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:package_info] /Users/agaram/Desktop/android/highqfresh_mobile/build/package_info/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:package_info] /Users/agaram/Desktop/android/highqfresh_mobile/build/package_info/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/agaram/Desktop/android/highqfresh_mobile/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/agaram/Desktop/android/highqfresh_mobile/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:connectivity] /Users/agaram/Desktop/android/highqfresh_mobile/build/connectivity/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:connectivity] /Users/agaram/Desktop/android/highqfresh_mobile/build/connectivity/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:connectivity_macos] /Users/agaram/Desktop/android/highqfresh_mobile/build/connectivity_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:connectivity_macos] /Users/agaram/Desktop/android/highqfresh_mobile/build/connectivity_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences] /Users/agaram/Desktop/android/highqfresh_mobile/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences] /Users/agaram/Desktop/android/highqfresh_mobile/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_custom_tabs] /Users/agaram/Desktop/android/highqfresh_mobile/build/flutter_custom_tabs/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_custom_tabs] /Users/agaram/Desktop/android/highqfresh_mobile/build/flutter_custom_tabs/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:firebase_messaging] /Users/agaram/Desktop/android/highqfresh_mobile/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:firebase_messaging] /Users/agaram/Desktop/android/highqfresh_mobile/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:webview_flutter] /Users/agaram/Desktop/android/highqfresh_mobile/build/webview_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:webview_flutter] /Users/agaram/Desktop/android/highqfresh_mobile/build/webview_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:device_info] /Users/agaram/Desktop/android/highqfresh_mobile/build/device_info/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:device_info] /Users/agaram/Desktop/android/highqfresh_mobile/build/device_info/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher] /Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher] /Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher_macos] /Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher_macos] /Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences_macos] /Users/agaram/Desktop/android/highqfresh_mobile/build/shared_preferences_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences_macos] /Users/agaram/Desktop/android/highqfresh_mobile/build/shared_preferences_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:share] /Users/agaram/Desktop/android/highqfresh_mobile/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:share] /Users/agaram/Desktop/android/highqfresh_mobile/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/agaram/Desktop/android/highqfresh_mobile/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/agaram/Desktop/android/highqfresh_mobile/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:shared_preferences_web] /Users/agaram/Desktop/android/highqfresh_mobile/build/shared_preferences_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:shared_preferences_web] /Users/agaram/Desktop/android/highqfresh_mobile/build/shared_preferences_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher_web] /Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher_web] /Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:sqflite] /Users/agaram/Desktop/android/highqfresh_mobile/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:sqflite] /Users/agaram/Desktop/android/highqfresh_mobile/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:video_player] /Users/agaram/Desktop/android/highqfresh_mobile/build/video_player/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:video_player] /Users/agaram/Desktop/android/highqfresh_mobile/build/video_player/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_macos] /Users/agaram/Desktop/android/highqfresh_mobile/build/shared_preferences_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_macos] /Users/agaram/Desktop/android/highqfresh_mobile/build/shared_preferences_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] /Users/agaram/Desktop/android/highqfresh_mobile/build/webview_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] /Users/agaram/Desktop/android/highqfresh_mobile/build/webview_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:path_provider] /Users/agaram/Desktop/android/highqfresh_mobile/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:path_provider] /Users/agaram/Desktop/android/highqfresh_mobile/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-messaging:20.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fbc174d895d10d01a828845329d76e8e/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-messaging:20.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fbc174d895d10d01a828845329d76e8e/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d3fa0f8afd7d6e4abe5b8b0f70f1b631/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d3fa0f8afd7d6e4abe5b8b0f70f1b631/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41c2441714d4a879f27667d0e79416a9/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41c2441714d4a879f27667d0e79416a9/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/00421d5e719bf0b6f1cd859ece0e102e/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/00421d5e719bf0b6f1cd859ece0e102e/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/27173f6e673fc7c60adddc5cf47048ab/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/27173f6e673fc7c60adddc5cf47048ab/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/804b100c16c9dea646f723a7481a1a3a/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/804b100c16c9dea646f723a7481a1a3a/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e01bac680848206082557b1bc484c94b/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e01bac680848206082557b1bc484c94b/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/944de4e52cae484a7344b320c5fcf7bc/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/944de4e52cae484a7344b320c5fcf7bc/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/02fe3c9b632d2a2b88b6bbf45e1d34b9/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/02fe3c9b632d2a2b88b6bbf45e1d34b9/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/7b46466aa317c3ed7484362211f05963/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/7b46466aa317c3ed7484362211f05963/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/90ae33792e87e6610d19837f586af327/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/90ae33792e87e6610d19837f586af327/AndroidManifest.xml:20:5-44
-MERGED from [androidx.webkit:webkit:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5f7c56229e9e72f029e60057b1ea9236/AndroidManifest.xml:20:5-44
-MERGED from [androidx.webkit:webkit:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5f7c56229e9e72f029e60057b1ea9236/AndroidManifest.xml:20:5-44
-MERGED from [com.github.droibit.customtabslauncher:launcher:1.4.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/7a4c6d4fa492312f4d8f3af49e648bfd/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.droibit.customtabslauncher:launcher:1.4.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/7a4c6d4fa492312f4d8f3af49e648bfd/AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.browser:browser:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/b45405470e32f071a9ea7f6db99f0995/AndroidManifest.xml:20:5-44
-MERGED from [androidx.browser:browser:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/b45405470e32f071a9ea7f6db99f0995/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5cdd8a0a8a8424e25c94ab540f3d29fd/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5cdd8a0a8a8424e25c94ab540f3d29fd/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/86d831ea535132a32c945496c0182333/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/86d831ea535132a32c945496c0182333/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/af2ff04fb7df22cd88aa131410532507/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/af2ff04fb7df22cd88aa131410532507/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d6291373c5d7a40af9957e8863fd93d6/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d6291373c5d7a40af9957e8863fd93d6/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/9d6f0e931c68c2f3d60a2e5aded33e2f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/9d6f0e931c68c2f3d60a2e5aded33e2f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/a35f1b0a03d3ea903bead866eed4d256/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/a35f1b0a03d3ea903bead866eed4d256/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d262529844455e2bc973c52ace4d2a6a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d262529844455e2bc973c52ace4d2a6a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/a1543f0b186fcdb1df6c4634bfb86529/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/a1543f0b186fcdb1df6c4634bfb86529/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/436a6f6434ed376917f934fc9217a966/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/436a6f6434ed376917f934fc9217a966/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/a983760e8c7554f7aaf061434f0224de/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/a983760e8c7554f7aaf061434f0224de/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/4536a136606894c3d221df242771394f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/4536a136606894c3d221df242771394f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/f8f28a210d80683cdeb5b4ce2d8ac34c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/f8f28a210d80683cdeb5b4ce2d8ac34c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/7cca7ec37c7e965425ef16d4612efe10/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/7cca7ec37c7e965425ef16d4612efe10/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/99ec0eec47ddf41e03b27e90cdc3518a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/99ec0eec47ddf41e03b27e90cdc3518a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5b18bda23d8e6f5152cef3f2271c5efe/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5b18bda23d8e6f5152cef3f2271c5efe/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/8c628f7cae687d36aa7ec0ccd51f0f9d/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/8c628f7cae687d36aa7ec0ccd51f0f9d/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/81bfaa7ad13e25aed41ba0266390bc8f/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/81bfaa7ad13e25aed41ba0266390bc8f/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/492a21bc116f6e247f1084f7ac9b6769/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/492a21bc116f6e247f1084f7ac9b6769/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/232fc76919708c375867fc47fce7dfb5/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/232fc76919708c375867fc47fce7dfb5/AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/526738d51e8a001b8528d1fdae5cac4a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/526738d51e8a001b8528d1fdae5cac4a/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41db673fa0c906ac08a7cf5c9663dcbe/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41db673fa0c906ac08a7cf5c9663dcbe/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/3bdc4f06f7d1e9073f963f4b3c96386f/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/3bdc4f06f7d1e9073f963f4b3c96386f/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e85564c54faf9831e32619275fa7641e/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e85564c54faf9831e32619275fa7641e/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/272e52c06513431ae089ef3963024ac3/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/272e52c06513431ae089ef3963024ac3/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/4d9336b5f83cf3e527be337ac7caa57f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/4d9336b5f83cf3e527be337ac7caa57f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/c991a9afaa1a05beca4fd6ddea81c260/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/c991a9afaa1a05beca4fd6ddea81c260/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/9602ca4f34f0562f27594fd7ab7af7e2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/9602ca4f34f0562f27594fd7ab7af7e2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e024283da67531cd8372abc45d11d3ba/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e024283da67531cd8372abc45d11d3ba/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/aa9dde6fca76b152c449ebfb58e84e27/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/aa9dde6fca76b152c449ebfb58e84e27/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e0e073b4feb340321797b021ef064d5c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e0e073b4feb340321797b021ef064d5c/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5ef84e40815c3bcb15e3591f3d952ad9/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5ef84e40815c3bcb15e3591f3d952ad9/AndroidManifest.xml:18:5-20:41
+MERGED from [:url_launcher_macos] /Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_macos] /Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:share] /Users/agaram/Desktop/android/highqfresh_mobile/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:share] /Users/agaram/Desktop/android/highqfresh_mobile/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_web] /Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_web] /Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/530f0e3e3abc6cf90cf0c1e58b635f1d/jetified-firebase-messaging-20.1.5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/530f0e3e3abc6cf90cf0c1e58b635f1d/jetified-firebase-messaging-20.1.5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d0e73e77498584566051e107c3add793/jetified-firebase-iid-20.1.5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d0e73e77498584566051e107c3add793/jetified-firebase-iid-20.1.5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fb53d73831e8095c79a95a7a1fc4a5f7/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fb53d73831e8095c79a95a7a1fc4a5f7/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/agaram/.gradle/caches/transforms-2/files-2.1/01136c00953e83c126543e1a0a2a9d27/jetified-firebase-datatransport-17.0.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/agaram/.gradle/caches/transforms-2/files-2.1/01136c00953e83c126543e1a0a2a9d27/jetified-firebase-datatransport-17.0.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations:16.2.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/a10816b9c03b948f6ceac3bfc820853e/jetified-firebase-installations-16.2.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.2.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/a10816b9c03b948f6ceac3bfc820853e/jetified-firebase-installations-16.2.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/89e8c50f4adcfa71f0d90282494b2c06/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/89e8c50f4adcfa71f0d90282494b2c06/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/6109d8996d9b47a9c8ecaa9a82f0714c/jetified-firebase-installations-interop-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/6109d8996d9b47a9c8ecaa9a82f0714c/jetified-firebase-installations-interop-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/cbc6d6f5135bf06efc972a72e114f0e3/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/cbc6d6f5135bf06efc972a72e114f0e3/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e24ab2098bd581de9bdcddd5aa46d15d/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e24ab2098bd581de9bdcddd5aa46d15d/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d02550b430adf4bbb39d913834e1c68c/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d02550b430adf4bbb39d913834e1c68c/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fdfac00df6b6ce656edd397d4c6596aa/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fdfac00df6b6ce656edd397d4c6596aa/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/f2c8b4624d1269ee053bd8db8444a9c2/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/f2c8b4624d1269ee053bd8db8444a9c2/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d4a0c365d0fbe39ce9a33af08a89b696/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d4a0c365d0fbe39ce9a33af08a89b696/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/43ada0fee32cb4a228528c7f06f8aab2/webkit-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/43ada0fee32cb4a228528c7f06f8aab2/webkit-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.droibit.customtabslauncher:launcher:1.4.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/1a8ca21fc521c1c3a00f4827c679d6ee/jetified-launcher-1.4.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.droibit.customtabslauncher:launcher:1.4.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/1a8ca21fc521c1c3a00f4827c679d6ee/jetified-launcher-1.4.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.browser:browser:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/f6c6ba3e250d56ed024425cef582e8cb/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/f6c6ba3e250d56ed024425cef582e8cb/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e26b6a15b4f62b35430e744f2c1809a9/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e26b6a15b4f62b35430e744f2c1809a9/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/12c60d1d9d8740ab9472d905160483f6/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/12c60d1d9d8740ab9472d905160483f6/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/277020f86f91c25102aef20906789c74/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/277020f86f91c25102aef20906789c74/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/1e35ab3da9f4c89e22014e1ada1360e6/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/1e35ab3da9f4c89e22014e1ada1360e6/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/48d3297f7ee7b64ce12125496f60e2e3/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/48d3297f7ee7b64ce12125496f60e2e3/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/0bd482385e00cbd8c209e26a3439525d/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/0bd482385e00cbd8c209e26a3439525d/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/0a05eb1d35f4f3c45c6c3017541af87a/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/0a05eb1d35f4f3c45c6c3017541af87a/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fb0b1eb33205bb46615b97e49173533a/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fb0b1eb33205bb46615b97e49173533a/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/4bed03d5011699e13fbb807ae5bd1ce2/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/4bed03d5011699e13fbb807ae5bd1ce2/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/8f28b85a5446987edd1fc91c9e1ba03d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/8f28b85a5446987edd1fc91c9e1ba03d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/2f7b9f67100336c938439134ba38a95d/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/2f7b9f67100336c938439134ba38a95d/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d8e6145ebd5f6e1099b739484795a4bd/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d8e6145ebd5f6e1099b739484795a4bd/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/0a2dc213f0bf1b96b7453405e5e1e190/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/0a2dc213f0bf1b96b7453405e5e1e190/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fd85cdfb7a55a7d6038b062d8044431f/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fd85cdfb7a55a7d6038b062d8044431f/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e46d1f274ee2854845cc7fdb623ed9d5/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e46d1f274ee2854845cc7fdb623ed9d5/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/29e8ae855d93b75add58e65b12d7a94d/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/29e8ae855d93b75add58e65b12d7a94d/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5bca16e7f72ee0d9190756d50377a344/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5bca16e7f72ee0d9190756d50377a344/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/94e06c12cc46e73eb47bc8a3db22810e/jetified-transport-runtime-2.2.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/94e06c12cc46e73eb47bc8a3db22810e/jetified-transport-runtime-2.2.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/371d6f1577fc3f085ea84b6d25720978/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/371d6f1577fc3f085ea84b6d25720978/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/acf9cff16bca7f6e1ab5bce8b23df96f/jetified-firebase-encoders-json-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/acf9cff16bca7f6e1ab5bce8b23df96f/jetified-firebase-encoders-json-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fe7ebf79e3411e22ec0a7132a522671c/jetified-exoplayer-hls-2.9.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fe7ebf79e3411e22ec0a7132a522671c/jetified-exoplayer-hls-2.9.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/80f77e27776d1570e2a6150adafc53a7/jetified-exoplayer-dash-2.9.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/80f77e27776d1570e2a6150adafc53a7/jetified-exoplayer-dash-2.9.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e920fcca3534ebdfab01fb0b8fb8ca7f/jetified-exoplayer-smoothstreaming-2.9.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e920fcca3534ebdfab01fb0b8fb8ca7f/jetified-exoplayer-smoothstreaming-2.9.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/9665d55df809c4a5323b6e91b6bbfd0d/jetified-exoplayer-core-2.9.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/9665d55df809c4a5323b6e91b6bbfd0d/jetified-exoplayer-core-2.9.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/cf5ee90c33a03f33f261cc870b55d351/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/cf5ee90c33a03f33f261cc870b55d351/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/3af4fd5d73989f30145e307cbcc328a3/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/3af4fd5d73989f30145e307cbcc328a3/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/3bf9b70d2d0e3b26fe4ec96aaa2a5b08/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/3bf9b70d2d0e3b26fe4ec96aaa2a5b08/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/686b8932ddd35430a3d8d179038e1a12/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/686b8932ddd35430a3d8d179038e1a12/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/a65200a3cf1a4e6b15577c6d2c62e8e2/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/a65200a3cf1a4e6b15577c6d2c62e8e2/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/68ddf7ce0f0f1b81ec43879c04fb97e1/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/68ddf7ce0f0f1b81ec43879c04fb97e1/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/682a6a8e8b2deb3a482756e31f67467f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/682a6a8e8b2deb3a482756e31f67467f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/ffc85c396f1d6c99c8c875ed537fc0dd/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/ffc85c396f1d6c99c8c875ed537fc0dd/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/4b2a688450e451fa256efd5afdee3e92/jetified-transport-api-2.2.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/4b2a688450e451fa256efd5afdee3e92/jetified-transport-api-2.2.0/AndroidManifest.xml:18:5-20:41
 INJECTED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/debug/AndroidManifest.xml
 INJECTED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
@@ -319,14 +332,16 @@ INJECTED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/de
 		INJECTED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [:connectivity] /Users/agaram/Desktop/android/highqfresh_mobile/build/connectivity/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41c2441714d4a879f27667d0e79416a9/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41c2441714d4a879f27667d0e79416a9/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/8c628f7cae687d36aa7ec0ccd51f0f9d/AndroidManifest.xml:25:5-79
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/8c628f7cae687d36aa7ec0ccd51f0f9d/AndroidManifest.xml:25:5-79
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/81bfaa7ad13e25aed41ba0266390bc8f/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/81bfaa7ad13e25aed41ba0266390bc8f/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/272e52c06513431ae089ef3963024ac3/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/272e52c06513431ae089ef3963024ac3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d0e73e77498584566051e107c3add793/jetified-firebase-iid-20.1.5/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d0e73e77498584566051e107c3add793/jetified-firebase-iid-20.1.5/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:16.2.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/a10816b9c03b948f6ceac3bfc820853e/jetified-firebase-installations-16.2.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.2.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/a10816b9c03b948f6ceac3bfc820853e/jetified-firebase-installations-16.2.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5bca16e7f72ee0d9190756d50377a344/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5bca16e7f72ee0d9190756d50377a344/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/94e06c12cc46e73eb47bc8a3db22810e/jetified-transport-runtime-2.2.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/94e06c12cc46e73eb47bc8a3db22810e/jetified-transport-runtime-2.2.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/9665d55df809c4a5323b6e91b6bbfd0d/jetified-exoplayer-core-2.9.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/9665d55df809c4a5323b6e91b6bbfd0d/jetified-exoplayer-core-2.9.1/AndroidManifest.xml:24:5-79
 	android:name
 		ADDED from [:connectivity] /Users/agaram/Desktop/android/highqfresh_mobile/build/connectivity/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
@@ -345,20 +360,22 @@ ADDED from [:firebase_messaging] /Users/agaram/Desktop/android/highqfresh_mobile
 		ADDED from [:firebase_messaging] /Users/agaram/Desktop/android/highqfresh_mobile/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:10:25-75
 service#com.google.firebase.components.ComponentDiscoveryService
 ADDED from [:firebase_messaging] /Users/agaram/Desktop/android/highqfresh_mobile/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-17:19
-MERGED from [com.google.firebase:firebase-messaging:20.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fbc174d895d10d01a828845329d76e8e/AndroidManifest.xml:35:9-41:19
-MERGED from [com.google.firebase:firebase-messaging:20.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fbc174d895d10d01a828845329d76e8e/AndroidManifest.xml:35:9-41:19
-MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d3fa0f8afd7d6e4abe5b8b0f70f1b631/AndroidManifest.xml:25:9-31:19
-MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d3fa0f8afd7d6e4abe5b8b0f70f1b631/AndroidManifest.xml:25:9-31:19
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41c2441714d4a879f27667d0e79416a9/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41c2441714d4a879f27667d0e79416a9/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/00421d5e719bf0b6f1cd859ece0e102e/AndroidManifest.xml:32:9-36:35
-MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/00421d5e719bf0b6f1cd859ece0e102e/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-messaging:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/530f0e3e3abc6cf90cf0c1e58b635f1d/jetified-firebase-messaging-20.1.5/AndroidManifest.xml:35:9-41:19
+MERGED from [com.google.firebase:firebase-messaging:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/530f0e3e3abc6cf90cf0c1e58b635f1d/jetified-firebase-messaging-20.1.5/AndroidManifest.xml:35:9-41:19
+MERGED from [com.google.firebase:firebase-iid:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d0e73e77498584566051e107c3add793/jetified-firebase-iid-20.1.5/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d0e73e77498584566051e107c3add793/jetified-firebase-iid-20.1.5/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/agaram/.gradle/caches/transforms-2/files-2.1/01136c00953e83c126543e1a0a2a9d27/jetified-firebase-datatransport-17.0.3/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/agaram/.gradle/caches/transforms-2/files-2.1/01136c00953e83c126543e1a0a2a9d27/jetified-firebase-datatransport-17.0.3/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-installations:16.2.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/a10816b9c03b948f6ceac3bfc820853e/jetified-firebase-installations-16.2.1/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:16.2.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/a10816b9c03b948f6ceac3bfc820853e/jetified-firebase-installations-16.2.1/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/89e8c50f4adcfa71f0d90282494b2c06/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/89e8c50f4adcfa71f0d90282494b2c06/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
 	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fbc174d895d10d01a828845329d76e8e/AndroidManifest.xml:37:13-37
+		ADDED from [com.google.firebase:firebase-messaging:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/530f0e3e3abc6cf90cf0c1e58b635f1d/jetified-firebase-messaging-20.1.5/AndroidManifest.xml:37:13-37
 	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/00421d5e719bf0b6f1cd859ece0e102e/AndroidManifest.xml:36:13-32
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/89e8c50f4adcfa71f0d90282494b2c06/jetified-firebase-common-19.3.0/AndroidManifest.xml:36:13-32
 	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/00421d5e719bf0b6f1cd859ece0e102e/AndroidManifest.xml:34:13-43
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/89e8c50f4adcfa71f0d90282494b2c06/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
 	android:name
 		ADDED from [:firebase_messaging] /Users/agaram/Desktop/android/highqfresh_mobile/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:13:18-89
 meta-data#com.google.firebase.components:io.flutter.plugins.firebasemessaging.FlutterFirebaseAppRegistrar
@@ -376,100 +393,106 @@ ADDED from [:url_launcher] /Users/agaram/Desktop/android/highqfresh_mobile/build
 	android:name
 		ADDED from [:url_launcher] /Users/agaram/Desktop/android/highqfresh_mobile/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
 service#com.google.firebase.messaging.FirebaseMessagingService
-ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fbc174d895d10d01a828845329d76e8e/AndroidManifest.xml:28:9-34:19
+ADDED from [com.google.firebase:firebase-messaging:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/530f0e3e3abc6cf90cf0c1e58b635f1d/jetified-firebase-messaging-20.1.5/AndroidManifest.xml:28:9-34:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fbc174d895d10d01a828845329d76e8e/AndroidManifest.xml:30:13-37
+		ADDED from [com.google.firebase:firebase-messaging:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/530f0e3e3abc6cf90cf0c1e58b635f1d/jetified-firebase-messaging-20.1.5/AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fbc174d895d10d01a828845329d76e8e/AndroidManifest.xml:29:13-82
+		ADDED from [com.google.firebase:firebase-messaging:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/530f0e3e3abc6cf90cf0c1e58b635f1d/jetified-firebase-messaging-20.1.5/AndroidManifest.xml:29:13-82
 meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
-ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fbc174d895d10d01a828845329d76e8e/AndroidManifest.xml:38:13-40:85
+ADDED from [com.google.firebase:firebase-messaging:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/530f0e3e3abc6cf90cf0c1e58b635f1d/jetified-firebase-messaging-20.1.5/AndroidManifest.xml:38:13-40:85
 	android:value
-		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fbc174d895d10d01a828845329d76e8e/AndroidManifest.xml:40:17-82
+		ADDED from [com.google.firebase:firebase-messaging:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/530f0e3e3abc6cf90cf0c1e58b635f1d/jetified-firebase-messaging-20.1.5/AndroidManifest.xml:40:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/fbc174d895d10d01a828845329d76e8e/AndroidManifest.xml:39:17-119
-meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
-ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d3fa0f8afd7d6e4abe5b8b0f70f1b631/AndroidManifest.xml:28:13-30:85
-	android:value
-		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d3fa0f8afd7d6e4abe5b8b0f70f1b631/AndroidManifest.xml:30:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d3fa0f8afd7d6e4abe5b8b0f70f1b631/AndroidManifest.xml:29:17-115
+		ADDED from [com.google.firebase:firebase-messaging:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/530f0e3e3abc6cf90cf0c1e58b635f1d/jetified-firebase-messaging-20.1.5/AndroidManifest.xml:39:17-119
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41c2441714d4a879f27667d0e79416a9/AndroidManifest.xml:24:5-68
+ADDED from [com.google.firebase:firebase-iid:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d0e73e77498584566051e107c3add793/jetified-firebase-iid-20.1.5/AndroidManifest.xml:24:5-68
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41c2441714d4a879f27667d0e79416a9/AndroidManifest.xml:24:22-65
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d0e73e77498584566051e107c3add793/jetified-firebase-iid-20.1.5/AndroidManifest.xml:24:22-65
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41c2441714d4a879f27667d0e79416a9/AndroidManifest.xml:26:5-82
+ADDED from [com.google.firebase:firebase-iid:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d0e73e77498584566051e107c3add793/jetified-firebase-iid-20.1.5/AndroidManifest.xml:26:5-82
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41c2441714d4a879f27667d0e79416a9/AndroidManifest.xml:26:22-79
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d0e73e77498584566051e107c3add793/jetified-firebase-iid-20.1.5/AndroidManifest.xml:26:22-79
 meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
-ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41c2441714d4a879f27667d0e79416a9/AndroidManifest.xml:32:13-34:85
+ADDED from [com.google.firebase:firebase-iid:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d0e73e77498584566051e107c3add793/jetified-firebase-iid-20.1.5/AndroidManifest.xml:32:13-34:85
 	android:value
-		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41c2441714d4a879f27667d0e79416a9/AndroidManifest.xml:34:17-82
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d0e73e77498584566051e107c3add793/jetified-firebase-iid-20.1.5/AndroidManifest.xml:34:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41c2441714d4a879f27667d0e79416a9/AndroidManifest.xml:33:17-96
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d0e73e77498584566051e107c3add793/jetified-firebase-iid-20.1.5/AndroidManifest.xml:33:17-96
 receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41c2441714d4a879f27667d0e79416a9/AndroidManifest.xml:37:9-44:20
+ADDED from [com.google.firebase:firebase-iid:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d0e73e77498584566051e107c3add793/jetified-firebase-iid-20.1.5/AndroidManifest.xml:37:9-44:20
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41c2441714d4a879f27667d0e79416a9/AndroidManifest.xml:39:13-36
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d0e73e77498584566051e107c3add793/jetified-firebase-iid-20.1.5/AndroidManifest.xml:39:13-36
 	android:permission
-		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41c2441714d4a879f27667d0e79416a9/AndroidManifest.xml:40:13-73
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d0e73e77498584566051e107c3add793/jetified-firebase-iid-20.1.5/AndroidManifest.xml:40:13-73
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41c2441714d4a879f27667d0e79416a9/AndroidManifest.xml:38:13-78
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d0e73e77498584566051e107c3add793/jetified-firebase-iid-20.1.5/AndroidManifest.xml:38:13-78
 intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41c2441714d4a879f27667d0e79416a9/AndroidManifest.xml:41:13-43:29
+ADDED from [com.google.firebase:firebase-iid:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d0e73e77498584566051e107c3add793/jetified-firebase-iid-20.1.5/AndroidManifest.xml:41:13-43:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41c2441714d4a879f27667d0e79416a9/AndroidManifest.xml:42:17-81
+ADDED from [com.google.firebase:firebase-iid:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d0e73e77498584566051e107c3add793/jetified-firebase-iid-20.1.5/AndroidManifest.xml:42:17-81
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/agaram/.gradle/caches/transforms-2/files-2.1/41c2441714d4a879f27667d0e79416a9/AndroidManifest.xml:42:25-78
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d0e73e77498584566051e107c3add793/jetified-firebase-iid-20.1.5/AndroidManifest.xml:42:25-78
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/agaram/.gradle/caches/transforms-2/files-2.1/01136c00953e83c126543e1a0a2a9d27/jetified-firebase-datatransport-17.0.3/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/agaram/.gradle/caches/transforms-2/files-2.1/01136c00953e83c126543e1a0a2a9d27/jetified-firebase-datatransport-17.0.3/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/agaram/.gradle/caches/transforms-2/files-2.1/01136c00953e83c126543e1a0a2a9d27/jetified-firebase-datatransport-17.0.3/AndroidManifest.xml:29:17-115
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.2.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/a10816b9c03b948f6ceac3bfc820853e/jetified-firebase-installations-16.2.1/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.2.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/a10816b9c03b948f6ceac3bfc820853e/jetified-firebase-installations-16.2.1/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.2.1] /Users/agaram/.gradle/caches/transforms-2/files-2.1/a10816b9c03b948f6ceac3bfc820853e/jetified-firebase-installations-16.2.1/AndroidManifest.xml:18:17-127
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/00421d5e719bf0b6f1cd859ece0e102e/AndroidManifest.xml:26:9-30:39
+ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/89e8c50f4adcfa71f0d90282494b2c06/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/00421d5e719bf0b6f1cd859ece0e102e/AndroidManifest.xml:28:13-72
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/89e8c50f4adcfa71f0d90282494b2c06/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/00421d5e719bf0b6f1cd859ece0e102e/AndroidManifest.xml:29:13-37
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/89e8c50f4adcfa71f0d90282494b2c06/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/00421d5e719bf0b6f1cd859ece0e102e/AndroidManifest.xml:30:13-36
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/89e8c50f4adcfa71f0d90282494b2c06/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/00421d5e719bf0b6f1cd859ece0e102e/AndroidManifest.xml:27:13-77
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/89e8c50f4adcfa71f0d90282494b2c06/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/804b100c16c9dea646f723a7481a1a3a/AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e24ab2098bd581de9bdcddd5aa46d15d/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/804b100c16c9dea646f723a7481a1a3a/AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e24ab2098bd581de9bdcddd5aa46d15d/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/804b100c16c9dea646f723a7481a1a3a/AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e24ab2098bd581de9bdcddd5aa46d15d/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/804b100c16c9dea646f723a7481a1a3a/AndroidManifest.xml:24:13-79
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/e24ab2098bd581de9bdcddd5aa46d15d/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/7b46466aa317c3ed7484362211f05963/AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/f2c8b4624d1269ee053bd8db8444a9c2/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/7b46466aa317c3ed7484362211f05963/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/f2c8b4624d1269ee053bd8db8444a9c2/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/7b46466aa317c3ed7484362211f05963/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/f2c8b4624d1269ee053bd8db8444a9c2/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
 service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
-ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/8c628f7cae687d36aa7ec0ccd51f0f9d/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/81bfaa7ad13e25aed41ba0266390bc8f/AndroidManifest.xml:36:9-38:40
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/81bfaa7ad13e25aed41ba0266390bc8f/AndroidManifest.xml:36:9-38:40
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5bca16e7f72ee0d9190756d50377a344/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/94e06c12cc46e73eb47bc8a3db22810e/jetified-transport-runtime-2.2.0/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/94e06c12cc46e73eb47bc8a3db22810e/jetified-transport-runtime-2.2.0/AndroidManifest.xml:36:9-38:40
 	android:exported
-		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/8c628f7cae687d36aa7ec0ccd51f0f9d/AndroidManifest.xml:31:13-37
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5bca16e7f72ee0d9190756d50377a344/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:31:13-37
 	android:name
-		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/8c628f7cae687d36aa7ec0ccd51f0f9d/AndroidManifest.xml:30:13-103
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5bca16e7f72ee0d9190756d50377a344/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:30:13-103
 meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
-ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/8c628f7cae687d36aa7ec0ccd51f0f9d/AndroidManifest.xml:32:13-34:39
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5bca16e7f72ee0d9190756d50377a344/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:32:13-34:39
 	android:value
-		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/8c628f7cae687d36aa7ec0ccd51f0f9d/AndroidManifest.xml:34:17-36
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5bca16e7f72ee0d9190756d50377a344/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:34:17-36
 	android:name
-		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/8c628f7cae687d36aa7ec0ccd51f0f9d/AndroidManifest.xml:33:17-94
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/5bca16e7f72ee0d9190756d50377a344/jetified-transport-backend-cct-2.2.0/AndroidManifest.xml:33:17-94
 service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
-ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/81bfaa7ad13e25aed41ba0266390bc8f/AndroidManifest.xml:26:9-30:19
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/94e06c12cc46e73eb47bc8a3db22810e/jetified-transport-runtime-2.2.0/AndroidManifest.xml:26:9-30:19
 	android:exported
-		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/81bfaa7ad13e25aed41ba0266390bc8f/AndroidManifest.xml:28:13-37
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/94e06c12cc46e73eb47bc8a3db22810e/jetified-transport-runtime-2.2.0/AndroidManifest.xml:28:13-37
 	android:permission
-		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/81bfaa7ad13e25aed41ba0266390bc8f/AndroidManifest.xml:29:13-69
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/94e06c12cc46e73eb47bc8a3db22810e/jetified-transport-runtime-2.2.0/AndroidManifest.xml:29:13-69
 	android:name
-		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/81bfaa7ad13e25aed41ba0266390bc8f/AndroidManifest.xml:27:13-117
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/94e06c12cc46e73eb47bc8a3db22810e/jetified-transport-runtime-2.2.0/AndroidManifest.xml:27:13-117
 receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
-ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/81bfaa7ad13e25aed41ba0266390bc8f/AndroidManifest.xml:32:9-34:40
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/94e06c12cc46e73eb47bc8a3db22810e/jetified-transport-runtime-2.2.0/AndroidManifest.xml:32:9-34:40
 	android:exported
-		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/81bfaa7ad13e25aed41ba0266390bc8f/AndroidManifest.xml:34:13-37
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/94e06c12cc46e73eb47bc8a3db22810e/jetified-transport-runtime-2.2.0/AndroidManifest.xml:34:13-37
 	android:name
-		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/81bfaa7ad13e25aed41ba0266390bc8f/AndroidManifest.xml:33:13-132
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/94e06c12cc46e73eb47bc8a3db22810e/jetified-transport-runtime-2.2.0/AndroidManifest.xml:33:13-132

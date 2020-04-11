@@ -4,24 +4,7 @@
             "outputFile": "/Users/agaram/Desktop/android/highqfresh_mobile/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
             "map": [
                 {
-                    "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/7b46466aa317c3ed7484362211f05963/res/values-zh-rCN/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "251",
-                        "endColumns": "157",
-                        "endOffsets": "408"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1125",
-                        "endColumns": "157",
-                        "endOffsets": "1278"
-                    }
-                },
-                {
-                    "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/804b100c16c9dea646f723a7481a1a3a/res/values-zh-rCN/values.xml",
+                    "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/e24ab2098bd581de9bdcddd5aa46d15d/jetified-play-services-base-17.0.0/res/values-zh-rCN/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/fbc174d895d10d01a828845329d76e8e/res/values-zh-rCN/values.xml",
+                    "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/530f0e3e3abc6cf90cf0c1e58b635f1d/jetified-firebase-messaging-20.1.5/res/values-zh-rCN/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -55,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/4536a136606894c3d221df242771394f/res/values-zh-rCN/values-zh-rCN.xml",
+                    "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/d8e6145ebd5f6e1099b739484795a4bd/core-1.1.0/res/values-zh-rCN/values-zh-rCN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -69,6 +52,23 @@
                         "startOffsets": "2509",
                         "endColumns": "100",
                         "endOffsets": "2605"
+                    }
+                },
+                {
+                    "source": "/Users/agaram/.gradle/caches/transforms-2/files-2.1/f2c8b4624d1269ee053bd8db8444a9c2/jetified-play-services-basement-17.0.0/res/values-zh-rCN/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "157",
+                        "endOffsets": "408"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1125",
+                        "endColumns": "157",
+                        "endOffsets": "1278"
                     }
                 }
             ]
