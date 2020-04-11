@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="5" by="lint 3.6.2">
+
+    <issue
+        id="ObsoleteLintCustomCheck"
+        severity="Warning"
+        message="Lint found an issue registry (`com.google.firebase.installations.lint.Checks`) which is older than the current API level; these checks may not work correctly.&#xA;&#xA;Recompile the checks against the latest version. Custom check API version is 2 (3.2), current lint API level is 6 (3.6+)"
+        category="Lint"
+        priority="10"
+        summary="Obsolete custom lint check"
+        explanation="Lint can be extended with &quot;custom checks&quot;: additional checks implemented by developers and libraries to for example enforce specific API usages required by a library or a company coding style guideline.&#xA;&#xA;The Lint APIs are not yet stable, so these checks may either cause a performance degradation, or stop working, or provide wrong results.&#xA;&#xA;This warning flags custom lint checks that are found to be using obsolete APIs and will need to be updated to run in the current lint environment.&#xA;&#xA;It may also flag issues found to be using a **newer** version of the API, meaning that you need to use a newer version of lint (or Android Studio or Gradle plugin etc) to work with these checks."
+        includedVariants="debug"
+        excludedVariants="profile,release">
+        <location
+            file="/Users/agaram/.gradle/caches/transforms-2/files-2.1/a10816b9c03b948f6ceac3bfc820853e/jetified-firebase-installations-16.2.1/jars/lint.jar"/>
+    </issue>
+
+    <issue
+        id="UnusedAttribute"
+        severity="Warning"
+        message="Attribute `networkSecurityConfig` is only used in API level 24 and higher (current min is 16)"
+        category="Correctness"
+        priority="6"
+        summary="Attribute unused on older versions"
+        explanation="This check finds attributes set in XML files that were introduced in a version newer than the oldest version targeted by your application (with the `minSdkVersion` attribute).&#xA;&#xA;This is not an error; the application will simply ignore the attribute. However, if the attribute is important to the appearance or functionality of your application, you should consider finding an alternative way to achieve the same result with only available attributes, and then you can optionally create a copy of the layout in a layout-vNN folder which will be used on API NN or higher where you can take advantage of the newer attribute.&#xA;&#xA;Note: This check does not only apply to attributes. For example, some tags can be unused too, such as the new `&lt;tag>` element in layouts introduced in API 21."
+        errorLine1="        android:networkSecurityConfig=&quot;@xml/network_security_config&quot;"
+        errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml"
+            line="13"
+            column="9"/>
+    </issue>
+
+    <issue
+        id="AllowBackup"
+        severity="Warning"
+        message="On SDK version 23 and up, your app data will be automatically backed up, and restored on app install. Your GCM regid will not work across restores, so you must ensure that it is excluded from the back-up set. Use the attribute `android:fullBackupContent` to specify an `@xml` resource which configures which files to backup. More info: https://developer.android.com/training/backup/autosyncapi.html"
+        category="Security"
+        priority="3"
+        summary="AllowBackup/FullBackupContent Problems"
+        explanation="The `allowBackup` attribute determines if an application&apos;s data can be backed up and restored. It is documented at http://developer.android.com/reference/android/R.attr.html#allowBackup&#xA;&#xA;By default, this flag is set to `true` which means application data can be backed up and restored by the OS. Setting `allowBackup=&quot;false&quot;` opts the application out of being backed up and so users can&apos;t restore data related to it when they go through the device setup wizard.&#xA;&#xA;Allowing backups may have security consequences for an application. Currently `adb backup` allows users who have enabled USB debugging to copy application data off of the device. Once backed up, all application data can be read by the user. `adb restore` allows creation of application data from a source specified by the user. Following a restore, applications should not assume that the data, file permissions, and directory permissions were created by the application itself.&#xA;&#xA;To fix this warning, decide whether your application should support backup, and explicitly set `android:allowBackup=(true|false)&quot;`.&#xA;&#xA;If not set to false, and if targeting API 23 or later, lint will also warn that you should set `android:fullBackupContent` to configure auto backup."
+        url="https://developer.android.com/training/backup/autosyncapi.html"
+        urls="https://developer.android.com/training/backup/autosyncapi.html,http://developer.android.com/reference/android/R.attr.html#allowBackup"
+        errorLine1="    &lt;application"
+        errorLine2="     ~~~~~~~~~~~">
+        <location
+            file="/Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml"
+            line="10"
+            column="6"/>
+    </issue>
+
+    <issue
+        id="AllowBackup"
+        severity="Warning"
+        message="Should explicitly set `android:allowBackup` to `true` or `false` (it&apos;s `true` by default, and that can have some security implications for the application&apos;s data)"
+        category="Security"
+        priority="3"
+        summary="AllowBackup/FullBackupContent Problems"
+        explanation="The `allowBackup` attribute determines if an application&apos;s data can be backed up and restored. It is documented at http://developer.android.com/reference/android/R.attr.html#allowBackup&#xA;&#xA;By default, this flag is set to `true` which means application data can be backed up and restored by the OS. Setting `allowBackup=&quot;false&quot;` opts the application out of being backed up and so users can&apos;t restore data related to it when they go through the device setup wizard.&#xA;&#xA;Allowing backups may have security consequences for an application. Currently `adb backup` allows users who have enabled USB debugging to copy application data off of the device. Once backed up, all application data can be read by the user. `adb restore` allows creation of application data from a source specified by the user. Following a restore, applications should not assume that the data, file permissions, and directory permissions were created by the application itself.&#xA;&#xA;To fix this warning, decide whether your application should support backup, and explicitly set `android:allowBackup=(true|false)&quot;`.&#xA;&#xA;If not set to false, and if targeting API 23 or later, lint will also warn that you should set `android:fullBackupContent` to configure auto backup."
+        url="https://developer.android.com/training/backup/autosyncapi.html"
+        urls="https://developer.android.com/training/backup/autosyncapi.html,http://developer.android.com/reference/android/R.attr.html#allowBackup"
+        errorLine1="    &lt;application"
+        errorLine2="     ~~~~~~~~~~~">
+        <location
+            file="/Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml"
+            line="10"
+            column="6"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.xml.app_tracker` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds.&#xA;&#xA;The unused resource check can ignore tests. If you want to include resources that are only referenced from tests, consider packaging them in a test source set instead.&#xA;&#xA;You can include test sources in the unused resource check by setting the system property lint.unused-resources.include-tests=true, and to exclude them (usually for performance reasons), use lint.unused-resources.exclude-tests=true."
+        errorLine1="&lt;resources>"
+        errorLine2="^">
+        <location
+            file="/Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/res/xml/app_tracker.xml"
+            line="2"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.xml.filepaths` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds.&#xA;&#xA;The unused resource check can ignore tests. If you want to include resources that are only referenced from tests, consider packaging them in a test source set instead.&#xA;&#xA;You can include test sources in the unused resource check by setting the system property lint.unused-resources.include-tests=true, and to exclude them (usually for performance reasons), use lint.unused-resources.exclude-tests=true."
+        errorLine1="&lt;paths>"
+        errorLine2="^">
+        <location
+            file="/Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/res/xml/filepaths.xml"
+            line="2"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="IconLauncherShape"
+        severity="Warning"
+        message="Launcher icons should not fill every pixel of their square region; see the design guide for details"
+        category="Usability:Icons"
+        priority="6"
+        summary="The launcher icon shape should use a distinct silhouette"
+        explanation="According to the Android Design Guide (http://developer.android.com/design/style/iconography.html) your launcher icons should &quot;use a distinct silhouette&quot;, a &quot;three-dimensional, front view, with a slight perspective as if viewed from above, so that users perceive some depth.&quot;&#xA;&#xA;The unique silhouette implies that your launcher icon should not be a filled square."
+        url="http://developer.android.com/design/style/iconography.html"
+        urls="http://developer.android.com/design/style/iconography.html">
+        <location
+            file="/Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"/>
+    </issue>
+
+    <issue
+        id="IconLauncherShape"
+        severity="Warning"
+        message="Launcher icons should not fill every pixel of their square region; see the design guide for details"
+        category="Usability:Icons"
+        priority="6"
+        summary="The launcher icon shape should use a distinct silhouette"
+        explanation="According to the Android Design Guide (http://developer.android.com/design/style/iconography.html) your launcher icons should &quot;use a distinct silhouette&quot;, a &quot;three-dimensional, front view, with a slight perspective as if viewed from above, so that users perceive some depth.&quot;&#xA;&#xA;The unique silhouette implies that your launcher icon should not be a filled square."
+        url="http://developer.android.com/design/style/iconography.html"
+        urls="http://developer.android.com/design/style/iconography.html">
+        <location
+            file="/Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/res/mipmap-ldpi/ic_launcher.png"/>
+    </issue>
+
+    <issue
+        id="IconLauncherShape"
+        severity="Warning"
+        message="Launcher icons should not fill every pixel of their square region; see the design guide for details"
+        category="Usability:Icons"
+        priority="6"
+        summary="The launcher icon shape should use a distinct silhouette"
+        explanation="According to the Android Design Guide (http://developer.android.com/design/style/iconography.html) your launcher icons should &quot;use a distinct silhouette&quot;, a &quot;three-dimensional, front view, with a slight perspective as if viewed from above, so that users perceive some depth.&quot;&#xA;&#xA;The unique silhouette implies that your launcher icon should not be a filled square."
+        url="http://developer.android.com/design/style/iconography.html"
+        urls="http://developer.android.com/design/style/iconography.html">
+        <location
+            file="/Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"/>
+    </issue>
+
+    <issue
+        id="IconLauncherShape"
+        severity="Warning"
+        message="Launcher icons should not fill every pixel of their square region; see the design guide for details"
+        category="Usability:Icons"
+        priority="6"
+        summary="The launcher icon shape should use a distinct silhouette"
+        explanation="According to the Android Design Guide (http://developer.android.com/design/style/iconography.html) your launcher icons should &quot;use a distinct silhouette&quot;, a &quot;three-dimensional, front view, with a slight perspective as if viewed from above, so that users perceive some depth.&quot;&#xA;&#xA;The unique silhouette implies that your launcher icon should not be a filled square."
+        url="http://developer.android.com/design/style/iconography.html"
+        urls="http://developer.android.com/design/style/iconography.html">
+        <location
+            file="/Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"/>
+    </issue>
+
+    <issue
+        id="IconLauncherShape"
+        severity="Warning"
+        message="Launcher icons should not fill every pixel of their square region; see the design guide for details"
+        category="Usability:Icons"
+        priority="6"
+        summary="The launcher icon shape should use a distinct silhouette"
+        explanation="According to the Android Design Guide (http://developer.android.com/design/style/iconography.html) your launcher icons should &quot;use a distinct silhouette&quot;, a &quot;three-dimensional, front view, with a slight perspective as if viewed from above, so that users perceive some depth.&quot;&#xA;&#xA;The unique silhouette implies that your launcher icon should not be a filled square."
+        url="http://developer.android.com/design/style/iconography.html"
+        urls="http://developer.android.com/design/style/iconography.html">
+        <location
+            file="/Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"/>
+    </issue>
+
+    <issue
+        id="IconLauncherShape"
+        severity="Warning"
+        message="Launcher icons should not fill every pixel of their square region; see the design guide for details"
+        category="Usability:Icons"
+        priority="6"
+        summary="The launcher icon shape should use a distinct silhouette"
+        explanation="According to the Android Design Guide (http://developer.android.com/design/style/iconography.html) your launcher icons should &quot;use a distinct silhouette&quot;, a &quot;three-dimensional, front view, with a slight perspective as if viewed from above, so that users perceive some depth.&quot;&#xA;&#xA;The unique silhouette implies that your launcher icon should not be a filled square."
+        url="http://developer.android.com/design/style/iconography.html"
+        urls="http://developer.android.com/design/style/iconography.html">
+        <location
+            file="/Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"/>
+    </issue>
+
+</issues>

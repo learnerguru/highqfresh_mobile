@@ -1,78 +1,35 @@
 {
   "project_info": {
-    "project_number": "987463378476",
-    "firebase_url": "https://faith-in-god-142e6.firebaseio.com",
-    "project_id": "faith-in-god-142e6",
-    "storage_bucket": "faith-in-god-142e6.appspot.com"
+    "project_number": "447703760634",
+    "firebase_url": "https://high-q-67076.firebaseio.com",
+    "project_id": "high-q-67076",
+    "storage_bucket": "high-q-67076.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:987463378476:android:7511f0462dd71ae901d389",
+        "mobilesdk_app_id": "1:447703760634:android:e49eb180f63033759a1343",
         "android_client_info": {
-          "package_name": "com.dioceseofparasala"
+          "package_name": "com.highqfresh"
         }
       },
       "oauth_client": [
         {
-          "client_id": "987463378476-n65jlpufnt9qasblot29lfi0lnevtk16.apps.googleusercontent.com",
+          "client_id": "447703760634-pis1hljie75qti8suvvo88fh8ek4d758.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAuGwwkOUD-LL9Yuq9oWPQ6K_UxyfGgVW4"
+          "current_key": "AIzaSyDhpONTiM1hWpAWD-GduFnbLeyyg_wql2o"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "987463378476-n65jlpufnt9qasblot29lfi0lnevtk16.apps.googleusercontent.com",
+              "client_id": "447703760634-pis1hljie75qti8suvvo88fh8ek4d758.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "987463378476-iigqu4ndc0s5qhbfmcq0i2gfpreqjbi2.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.malankaraplus"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:987463378476:android:8e18c78a344a7cea01d389",
-        "android_client_info": {
-          "package_name": "com.malankaraplus"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "987463378476-n65jlpufnt9qasblot29lfi0lnevtk16.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAuGwwkOUD-LL9Yuq9oWPQ6K_UxyfGgVW4"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "987463378476-n65jlpufnt9qasblot29lfi0lnevtk16.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "987463378476-iigqu4ndc0s5qhbfmcq0i2gfpreqjbi2.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.malankaraplus"
-              }
             }
           ]
         }

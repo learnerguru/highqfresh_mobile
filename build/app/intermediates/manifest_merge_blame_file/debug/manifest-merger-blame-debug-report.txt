@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.malankaraplus"
+3    package="com.highqfresh"
 4    android:versionCode="1"
 5    android:versionName="1.0.0" >
 6
@@ -35,7 +35,7 @@
 25    -->
 26    <application
 26-->/Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml:10:5-38:19
-27        android:name="com.malankaraplus.Application"
+27        android:name="com.highqfresh.Application"
 27-->/Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml:11:9-36
 28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 28-->[androidx.core:core:1.1.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/d8e6145ebd5f6e1099b739484795a4bd/core-1.1.0/AndroidManifest.xml:24:18-86
@@ -48,7 +48,7 @@
 32-->/Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml:13:9-69
 33        <activity
 33-->/Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml:15:9-37:20
-34            android:name="com.malankaraplus.MainActivity"
+34            android:name="com.highqfresh.MainActivity"
 34-->/Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml:16:13-41
 35            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
 35-->/Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml:19:13-144
@@ -192,7 +192,7 @@
 114-->[com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/89e8c50f4adcfa71f0d90282494b2c06/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
 115            android:name="com.google.firebase.provider.FirebaseInitProvider"
 115-->[com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/89e8c50f4adcfa71f0d90282494b2c06/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
-116            android:authorities="com.malankaraplus.firebaseinitprovider"
+116            android:authorities="com.highqfresh.firebaseinitprovider"
 116-->[com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/89e8c50f4adcfa71f0d90282494b2c06/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
 117            android:exported="false"
 117-->[com.google.firebase:firebase-common:19.3.0] /Users/agaram/.gradle/caches/transforms-2/files-2.1/89e8c50f4adcfa71f0d90282494b2c06/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37

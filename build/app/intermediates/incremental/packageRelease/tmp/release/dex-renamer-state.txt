@@ -1,0 +1,4 @@
+#Sat Apr 11 16:55:47 IST 2020
+base.0=/Users/agaram/Desktop/android/highqfresh_mobile/build/app/intermediates/dex/release/shrunkDex/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

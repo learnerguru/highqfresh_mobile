@@ -75,7 +75,7 @@ INJECTED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/de
 INJECTED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 	package
-		ADDED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml:2:5-32
+		ADDED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml:2:5-29
 		INJECTED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/debug/AndroidManifest.xml
 	android:versionName
@@ -146,7 +146,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/agar
 		ADDED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml:13:9-69
 	android:name
 		ADDED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml:11:9-36
-activity#com.malankaraplus.MainActivity
+activity#com.highqfresh.MainActivity
 ADDED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml:15:9-37:20
 	android:launchMode
 		ADDED from /Users/agaram/Desktop/android/highqfresh_mobile/android/app/src/main/AndroidManifest.xml:17:13-43
