@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:highqfresh/constant/LgConstant.dart';
 import 'package:highqfresh/constant/SharedPref.dart';
+import 'package:highqfresh/screens/globalsearch/GlobalDataSearch.dart';
 import 'package:highqfresh/screens/profile/ProfilePage.dart';
 import 'package:highqfresh/strings/PageName.dart';
 import 'package:highqfresh/utils/LGSharedPrefernces.dart';
@@ -24,7 +25,21 @@ class LandingScreenState extends State<LandingScreen>  with SingleTickerProvider
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-
+      appBar: AppBar(
+        title: Text(LgConstant.app_name),
+        actions: <Widget>[
+          IconButton(
+              icon: Icon(Icons.search),
+              onPressed: () {
+                showSearch(context: context, delegate: GlobalDataSearch());
+              }),
+          IconButton(
+              icon: Icon(Icons.lock),
+              onPressed: () {
+                navigateToLogin();
+              }),
+        ],
+      ),
         body: getHomeFuture(context));
   }
 

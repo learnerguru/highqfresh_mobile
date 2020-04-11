@@ -6,12 +6,16 @@ import 'package:flutter/widgets.dart';
 import 'package:highqfresh/apimanager/UserApiCalls.dart';
 import 'package:highqfresh/constant/LgConstant.dart';
 import 'package:highqfresh/constant/SharedPref.dart';
+import 'package:highqfresh/melabs/MEButton.dart';
 import 'package:highqfresh/request/AddLoginRequest.dart';
 import 'package:highqfresh/response/LoginUserResponse.dart';
 import 'package:highqfresh/response/UserResponse.dart';
 import 'package:highqfresh/screens/landingscreen/LandingScreen.dart';
+import 'package:highqfresh/screens/register/UserRegisterPage.dart';
+import 'package:highqfresh/strings/PageName.dart';
 import 'package:highqfresh/utils/EncrtptDecrypt.dart';
 import 'package:highqfresh/utils/FCMUtils.dart';
+import 'package:highqfresh/utils/LGConnectivityChecker.dart';
 import 'package:highqfresh/utils/LGDeviceInfo.dart';
 import 'package:highqfresh/utils/LGSharedPrefernces.dart';
 import 'package:highqfresh/utils/LGValidationUtils.dart';
@@ -25,14 +29,34 @@ class LoginScreenState extends State<LoginScreen> {
   TextEditingController _controllerPassword = new TextEditingController();
 
   bool passwordVisible = true;
+  bool isButtonClicked = false;
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color.fromRGBO(61, 58, 97, 1),
+
       body: setBodyContainerView(context),
+      bottomNavigationBar:setRegisterView() ,
     );
   }
+
+  setRegisterView(){
+    return GestureDetector(
+      onTap: (){
+        Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (context) => UserRegisterPage(
+            ),
+          ),
+        );
+      },
+      child:Container(
+        height: 70,
+      child: Center(child: Text("Register",style: TextStyle(color: LgConstant.app_color,fontSize: 20),),),
+    ) ,);
+  }
+
 
   @override
   void initState() {
@@ -73,8 +97,8 @@ class LoginScreenState extends State<LoginScreen> {
       style: TextStyle(color: Colors.black, fontFamily: 'SFUIDisplay'),
       decoration: InputDecoration(
           border: OutlineInputBorder(),
-          labelText: 'UserName',
-          prefixIcon: Icon(Icons.person_outline),
+          labelText: PageName.mobile_number,
+          prefixIcon: Icon(Icons.phone_android),
           labelStyle: TextStyle(fontSize: 15)),
     );
 
@@ -104,105 +128,83 @@ class LoginScreenState extends State<LoginScreen> {
       ),
     );
 
-    final loginButon = MaterialButton(
-      onPressed: () {
+    var column = ListView(
+
+      children: <Widget>[
+        userName,SizedBox(height: 10,),password,
+        SizedBox(height: 10,),
+        Column(children: <Widget>[ buttonView()],)
+      ],
+    );
+    var cardView = Card(
+
+      child: Container(
+        margin: EdgeInsets.all(20),
+        child: column,
+      ),
+    );
+
+    var container= Container(
+      margin: EdgeInsets.all(20),
+      height: 335,
+      child: cardView,
+    );
+    return Container(
+      height: MediaQuery.of(context).size.height,
+
+      child: Center(child:container ,),
+      color: Colors.black12,
+    );
+
+  }
+
+  buttonView(){
+    return !isButtonClicked? GestureDetector(
+      onTap: () {
         String userName =
-            _controllerUsername.text == null ? "" : _controllerUsername.text;
+        _controllerUsername.text == null ? "" : _controllerUsername.text;
         String password =
-            _controllerPassword.text == null ? "" : _controllerPassword.text;
+        _controllerPassword.text == null ? "" : _controllerPassword.text;
         if (!LGValidationUtils.isValidString(userName) ||
             !LGValidationUtils.isValidString(password)) {
           LgSnackbarUtils.showInSnackBarAtBottom(
               "Username/Password can't be empty...", context, false);
-        } else {
-          getFutureBody(context);
+          return;
         }
+        setState(() {
+          isButtonClicked=true;
+        });
+
+        UserApiCalls.loginUser(
+            context,
+            addLoginRequest());
+
 
         // body:
         //  getFuture(context,EncryptDecryptHelper.EncryptDatas(_controllerUsername.text),EncryptDecryptHelper.EncryptDatas(_controllerPassword.text));
       },
-      //since this is only a UI app
-      child: Text(
-        'SIGN IN',
-        style: TextStyle(
-          fontSize: 15,
-          fontFamily: 'SFUIDisplay',
-          fontWeight: FontWeight.bold,
-        ),
-      ),
-      color: Color(0xffff2d55),
-      elevation: 0,
-      minWidth: 400,
-      height: 50,
-      textColor: Colors.white,
-      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
-    );
-
-    return Stack(
-      children: <Widget>[
-        Container(
-          decoration: BoxDecoration(
-              image: DecorationImage(
-                  image: AssetImage(LgConstant.app_icon_asset_path),
-                  fit: BoxFit.fitWidth,
-                  alignment: Alignment.topCenter)),
-        ),
-        Container(
-          width: MediaQuery.of(context).size.width,
-          margin: EdgeInsets.only(top: 270),
-          decoration: BoxDecoration(
-            borderRadius: BorderRadius.circular(20),
-            color: Colors.white,
-          ),
-          child: Padding(
-            padding: EdgeInsets.all(23),
-            child: ListView(
-              children: <Widget>[
-                Padding(
-                  padding: EdgeInsets.fromLTRB(0, 20, 0, 20),
-                  child: Container(color: Color(0xfff5f5f5), child: userName),
-                ),
-                Container(color: Color(0xfff5f5f5), child: password),
-                Padding(padding: EdgeInsets.only(top: 20), child: loginButon),
-              ],
-            ),
-          ),
-        )
-      ],
-    );
+      child: MEButton.primaryButton("Login",100),
+    ):SizedBox(height:30,width:30,child: CircularProgressIndicator(),) ;
   }
 
-  FutureBuilder<UserResponse> getFutureBody(BuildContext context) {
-    return FutureBuilder<UserResponse>(
-      future: UserApiCalls.loginUser(
-          context,
-          addLoginRequest(
-              EncryptDecryptHelper.EncryptDatas(_controllerUsername.text),
-              EncryptDecryptHelper.EncryptDatas(_controllerPassword.text))),
-      builder: (context, snapshot) {
-        if (snapshot.hasError) print(snapshot.error);
 
-        return getLoginRecentData(snapshot.data, context);
-      },
-    );
-  }
 
   static getLoginRecentData(
-      UserResponse userMappingResponse, BuildContext context) async {
-    if (userMappingResponse == null ||
-        userMappingResponse.data == null ||
-        userMappingResponse.data.isEmpty ||
-        userMappingResponse.data[0].user_status == LgConstant.no) {
+      UserResponse userResponse, BuildContext context) async {
+    if (userResponse == null ||
+        userResponse.data == null ||
+        userResponse.data.isEmpty ||
+        userResponse.data[0].user_status == LgConstant.no) {
       LgSnackbarUtils.showInSnackBarAtBottom(
           LGValidationUtils.checkString(
-              (userMappingResponse.description).isEmpty
+              (userResponse.description).isEmpty
                   ? "Unable to login.Please try again later..."
-                  : userMappingResponse.description),
+                  : userResponse.description),
           context,
           false);
     } else {
       LGSharedPrefernces.setServerPrefs(
-          SharedPref.userData, json.encode(userMappingResponse.toJson()));
+          SharedPref.userData, json.encode(userResponse.toJson()));
     }
 
     LGSharedPrefernces.getServerPrefs(SharedPref.userData)
@@ -212,10 +214,10 @@ class LoginScreenState extends State<LoginScreen> {
       if (selServer == null || selServer.isEmpty) {
         LgConstant.activeUser = null;
       } else {
-        LoginUserResponse userMappingResponse11 =
+        LoginUserResponse loginUserResponse =
             ParseHelper.parseLoginUserResponse(selServer);
-        LgConstant.activeUser = userMappingResponse11.data[0];
-        print(userMappingResponse11.data[0].name);
+        LgConstant.activeUser = loginUserResponse.data[0];
+        print(loginUserResponse.data[0].name);
         Navigator.of(context).pushAndRemoveUntil(
             MaterialPageRoute(builder: (context) => LandingScreen()),
             (Route<dynamic> route) => false);
@@ -223,10 +225,10 @@ class LoginScreenState extends State<LoginScreen> {
     });
   }
 
-  AddLoginRequest addLoginRequest(String user_name, String password) {
+  AddLoginRequest addLoginRequest() {
     AddLoginRequest addLogin = new AddLoginRequest();
-    addLogin.userName = user_name;
-    addLogin.password = password;
+    addLogin.userName = _controllerUsername.text;
+    addLogin.password = _controllerPassword.text;
     addLogin.deviceToken = LgConstant.device_token;
     addLogin.deviceUuid = Platform.isAndroid
         ? LgConstant.device_info["androidId"].toString()

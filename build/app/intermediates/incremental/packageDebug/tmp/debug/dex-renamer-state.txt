@@ -1,4 +1,4 @@
-#Sat Apr 11 16:53:38 IST 2020
+#Sat Apr 11 22:35:17 IST 2020
 base.0=/Users/agaram/Desktop/android/highqfresh_mobile/build/app/intermediates/dex/debug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

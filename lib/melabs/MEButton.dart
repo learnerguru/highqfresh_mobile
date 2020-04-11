@@ -26,13 +26,13 @@ class MEButton{
     );
   }
 
-  static primaryButton(String text,BuildContext context){
+  static primaryButton(String text,double width){
     return Container(
       height: 45,
       margin: EdgeInsets.only(top: 10),
-      width: MediaQuery.of(context).size.width / 1.2,
+      width: width,
       decoration: BoxDecoration(
-        color: LgConstant.app_color,
+          color: LgConstant.app_color,
           borderRadius: BorderRadius.all(Radius.circular(50))),
       child: Center(
         child: Text(
@@ -43,6 +43,7 @@ class MEButton{
       ),
     );
   }
+
 
   static chipButtonWithIcon(String text,IconData iconData,Color color){
     return Chip(

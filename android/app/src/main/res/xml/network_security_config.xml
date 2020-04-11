@@ -6,6 +6,6 @@
         </trust-anchors>
     </base-config>
     <domain-config cleartextTrafficPermitted="true">
-        <domain includeSubdomains="true">malankaraplus.com</domain>
+        <domain includeSubdomains="true">eventova.com</domain>
     </domain-config>
 </network-security-config>

@@ -1,8 +1,7 @@
 
 class PageName{
 
-  static const String app_name = 'Malankara Plus';
-  static const String home = 'Home';
+  static const String mobile_number = 'Mobile Number';
   static const String news = 'News';
   static const String events = 'Events';
   static const String messages = 'Messages';
