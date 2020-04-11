@@ -2,7 +2,7 @@
 class UrlConstant{
 
   static String userLogin="user/login";
-  static String userRegister="user/login";
+  static String userRegister="user/register";
   static String sendOtp="otp/sendotp";
   static String verifyOtp="otp/verifyotp";
 

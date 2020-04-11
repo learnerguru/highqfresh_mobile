@@ -159,7 +159,6 @@ class UserRegisterState extends State<UserRegisterPage> {
       child: card,
     );
     return Container(
-      color: Colors.grey[200],
       child: center,
     );
   }
@@ -252,8 +251,6 @@ class UserRegisterState extends State<UserRegisterPage> {
       child: card,
     );
     return Container(
-      padding: EdgeInsets.all(15),
-      color: Colors.grey[200],
       child: center,
     );
   }
@@ -295,14 +292,15 @@ class UserRegisterState extends State<UserRegisterPage> {
       style: TextStyle(color: Colors.black, fontFamily: 'SFUIDisplay'),
       decoration: InputDecoration(
           border: OutlineInputBorder(),
-          labelText: PageName.mobile_number,
+          labelText: "Name",
           prefixIcon: Icon(Icons.person),
           labelStyle: TextStyle(fontSize: 15)),
     );
 
+    mobileNumberContoller.text = mobileNumberOtpController.text;
     var mobileNUmber = TextFormField(
       controller: mobileNumberContoller,
-      keyboardType: TextInputType.text,
+      keyboardType: TextInputType.number,
       maxLength: 10,
       enabled: false,
       obscureText: false,
@@ -322,7 +320,7 @@ class UserRegisterState extends State<UserRegisterPage> {
       style: TextStyle(color: Colors.black, fontFamily: 'SFUIDisplay'),
       decoration: InputDecoration(
           border: OutlineInputBorder(),
-          labelText: PageName.mobile_number,
+          labelText: "Email ID",
           prefixIcon: Icon(Icons.person),
           labelStyle: TextStyle(fontSize: 15)),
     );
@@ -335,7 +333,7 @@ class UserRegisterState extends State<UserRegisterPage> {
       style: TextStyle(color: Colors.black, fontFamily: 'SFUIDisplay'),
       decoration: InputDecoration(
           border: OutlineInputBorder(),
-          labelText: PageName.mobile_number,
+          labelText: "Address",
           prefixIcon: Icon(Icons.person),
           labelStyle: TextStyle(fontSize: 15)),
     );
@@ -343,11 +341,13 @@ class UserRegisterState extends State<UserRegisterPage> {
     final password = TextFormField(
       keyboardType: TextInputType.text,
       controller: passwordController,
+      maxLength: 20,
       obscureText: passwordVisible, //This will obscure text dynamically
       decoration: InputDecoration(
         border: OutlineInputBorder(),
         labelText: 'Password',
         hintText: 'Enter your password',
+        labelStyle: TextStyle(fontSize: 15),
         // Here is key idea
         prefixIcon: Icon(Icons.lock),
         suffixIcon: IconButton(
@@ -367,12 +367,14 @@ class UserRegisterState extends State<UserRegisterPage> {
     );
     final confirmPassword = TextFormField(
       keyboardType: TextInputType.text,
+      maxLength: 20,
       controller: confirmPasswordController,
       obscureText: confirmPasswordVisible, //This will obscure text dynamically
       decoration: InputDecoration(
         border: OutlineInputBorder(),
-        labelText: 'Password',
+        labelText: 'Confirm Password',
         hintText: 'Enter your password',
+        labelStyle: TextStyle(fontSize: 15),
         // Here is key idea
         prefixIcon: Icon(Icons.lock),
         suffixIcon: IconButton(
@@ -394,12 +396,7 @@ class UserRegisterState extends State<UserRegisterPage> {
     var registerButton = !isRegisterButtonClicked
         ? GestureDetector(
             onTap: () {
-              String userName =
-                  nameController.text == null ? "" : nameController.text;
-
-              if (!LGValidationUtils.isValidString(userName)) {
-                LgSnackbarUtils.showInSnackBarAtBottom(
-                    "OTP can't be empty...", context, false);
+              if(!checkRegisterValidation()){
                 return;
               }
               setState(() {
@@ -446,10 +443,32 @@ class UserRegisterState extends State<UserRegisterPage> {
       child: card,
     );
     return Container(
-      padding: EdgeInsets.all(15),
-      color: Colors.grey[200],
       child: center,
     );
+  }
+
+  checkRegisterValidation(){
+    if(!LGValidationUtils.isValidString(nameController.text)){
+      LgSnackbarUtils.showInSnackBarAtBottom("Enter Valid Name", context, false);
+      return false;
+    }
+    if(!LGValidationUtils.isValidString(addressController.text)){
+      LgSnackbarUtils.showInSnackBarAtBottom("Enter Valid Address", context, false);
+      return false;
+    }
+    if(!LGValidationUtils.isValidString(passwordController.text)){
+      LgSnackbarUtils.showInSnackBarAtBottom("Enter Valid Password", context, false);
+      return false;
+    }
+    if(!LGValidationUtils.isValidString(confirmPasswordController.text)){
+      LgSnackbarUtils.showInSnackBarAtBottom("Enter Confirm Password", context, false);
+      return false;
+    }
+    if(passwordController.text!=confirmPasswordController.text){
+      LgSnackbarUtils.showInSnackBarAtBottom("Password Mismatch", context, false);
+      return false;
+    }
+    return true;
   }
 
   userRegisterRequest() {

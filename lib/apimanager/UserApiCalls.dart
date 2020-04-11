@@ -25,16 +25,11 @@ class UserApiCalls {
     print(json.encode(addLoginRequest.toJson()));
     Response response = await post(url,
         headers: headers, body: json.encode(addLoginRequest.toJson()));
-    UserResponse userMappingResponse = null;
-    if (response.statusCode == 200) {
-      userMappingResponse = ParseHelper.parseUserResponse(response.body);
-    }
-    LoginScreenState.getLoginRecentData(userMappingResponse, context);
 
     print(response.body);
 
     // Use the compute function to run parsePhotos in a separate isolate
-    //  return compute(ParseHelper.parseUserMappingResponse, response.body);
+      return compute(ParseHelper.parseUserResponse, response.body);
   }
 
   static Future<CommonResponse> sendOtp(

@@ -43,12 +43,12 @@ class User {
     id = json['id'];
     name = json['name'];
     address = json['address'];
-    mobile_no = json['mobile_no'];
+    mobile_no = json['mobile_no'].toString();
     user_status = json['user_status'];
-    user_name = json['user_name'];
+    user_name = json['user_name'].toString();
     password = json['password'];
-    latitude = json['latitude'];
-    longitude = json['longitude'];
+    latitude = double.parse(json['latitude'].toString());
+    longitude = double.parse(json['longitude'].toString());
     date_created =  json['date_created'];
     date_modified = json['date_modified'];
     email_id = json['email_id'];

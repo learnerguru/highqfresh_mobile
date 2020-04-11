@@ -177,7 +177,9 @@ class LoginScreenState extends State<LoginScreen> {
 
         UserApiCalls.loginUser(
             context,
-            addLoginRequest());
+            addLoginRequest()).then((UserResponse userResponse){
+          loginResponse(userResponse,context);
+        });
 
 
         // body:
@@ -189,8 +191,11 @@ class LoginScreenState extends State<LoginScreen> {
 
 
 
-  static getLoginRecentData(
+   loginResponse(
       UserResponse userResponse, BuildContext context) async {
+    setState(() {
+      isButtonClicked=false;
+    });
     if (userResponse == null ||
         userResponse.data == null ||
         userResponse.data.isEmpty ||
