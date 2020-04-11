@@ -192,8 +192,7 @@ class LoginScreenState extends State<LoginScreen> {
     if (userMappingResponse == null ||
         userMappingResponse.data == null ||
         userMappingResponse.data.isEmpty ||
-        userMappingResponse.data[0].allowLogin == LgConstant.no ||
-        userMappingResponse.data[0].userStatus == LgConstant.no) {
+        userMappingResponse.data[0].user_status == LgConstant.no) {
       LgSnackbarUtils.showInSnackBarAtBottom(
           LGValidationUtils.checkString(
               (userMappingResponse.description).isEmpty
@@ -216,7 +215,7 @@ class LoginScreenState extends State<LoginScreen> {
         LoginUserResponse userMappingResponse11 =
             ParseHelper.parseLoginUserResponse(selServer);
         LgConstant.activeUser = userMappingResponse11.data[0];
-        print(userMappingResponse11.data[0].fName);
+        print(userMappingResponse11.data[0].name);
         Navigator.of(context).pushAndRemoveUntil(
             MaterialPageRoute(builder: (context) => LandingScreen()),
             (Route<dynamic> route) => false);

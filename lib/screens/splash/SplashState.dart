@@ -51,7 +51,7 @@ class SplashState extends State<SplashScreen> {
       }else{
         LoginUserResponse userMappingResponse11 = ParseHelper.parseLoginUserResponse(selServer);
         LgConstant.activeUser= userMappingResponse11.data[0];
-        print(userMappingResponse11.data[0].fName);
+        print(userMappingResponse11.data[0].name);
       }
 
     });

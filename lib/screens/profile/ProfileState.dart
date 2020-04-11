@@ -52,7 +52,7 @@ class ProfileState extends State<ProfilePage> {
           height: 92);
     }
     return   FadeInImage(
-        image: NetworkImage(LgConstant.activeUser.profileImage),
+        image: NetworkImage(LgConstant.activeUser.profile_image),
         placeholder: AssetImage(LgConstant.app_icon_asset_path),
         fit: BoxFit.fill,
         height: 92);
@@ -62,7 +62,7 @@ class ProfileState extends State<ProfilePage> {
     if(LgConstant.activeUser==null || LgConstant.activeUser.id==0){
       return  Container();
     }
-    return   Text(LgConstant.activeUser.fName+" "+LgConstant.activeUser.lName,style: TextStyle(fontSize: 18,color: Colors.brown),);
+    return   Text(LgConstant.activeUser.name,style: TextStyle(fontSize: 18,color: Colors.brown),);
   }
 
   setButton(){

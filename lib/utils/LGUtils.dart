@@ -18,7 +18,7 @@ class LGUtils{
     String authorization="";
     String platform="";
     if(LgConstant.activeUser!=null){
-      authorization=LgConstant.activeUser.androidAuthenticationCode;
+      authorization=LgConstant.activeUser.android_authentication_code;
       platform="ANDROID";
     }
     Map<String, String> headers = {"Content-type": "application/json","Authorization": authorization,"platform": platform,};
